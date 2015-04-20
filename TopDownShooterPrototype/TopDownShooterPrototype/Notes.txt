@@ -1,0 +1,30 @@
+﻿			
+			
+This is the setup for the tilemap grids
+//{ 
+     //    //0,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6 
+     //     {9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9},
+     //     {9,6,0,0,0,0,0,0,0,0,0,0,0,0,5,9},
+     //     {9,2,4,4,4,4,4,4,4,4,4,4,4,4,1,9},
+     //     {9,2,4,4,4,4,4,4,4,4,4,4,4,4,1,9},
+     //     {9,2,4,4,4,4,4,4,4,4,4,4,4,4,1,9},  
+     //     {9,2,4,4,4,4,4,4,4,4,4,4,4,4,1,9},
+     //     {9,2,4,4,4,4,4,4,4,4,4,4,4,4,1,9},
+     //     {9,2,4,4,4,4,4,4,4,4,4,4,4,4,1,9},
+     //     {9,2,4,4,4,4,4,4,4,4,4,4,4,4,1,9},
+     //     {9,2,4,4,4,4,4,4,4,4,4,4,4,4,1,9},
+     //     {9,8,3,3,3,3,3,3,3,3,3,3,3,3,7,9},
+     //     {9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9},
+ //};
+
+ void UpdateRotation()
+ {
+
+	if (target != null) 
+    {
+        float turn = (float)Math.Atan2(target.Position.Y - this.position.Y ,
+                                 target.Position.X - this.position.X)  ;
+        rotation = MathHelper.Lerp(rotation, turn, 0.1f);
+    }     
+ }
+ TRY TO USE velocity = new Vector2(gamePadState.ThumbSticks.Left.X, -gamePadState.ThumbStick.Left.Y) when you want to get motion from the gamepad !!!!!!

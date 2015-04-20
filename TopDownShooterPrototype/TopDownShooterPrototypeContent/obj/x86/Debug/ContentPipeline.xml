@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>topdownnazi.png</Source>
+      <Name>topdownnazi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kevin\documents\visual studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\topdownnazi.xnb</Output>
+      <Time>2015-01-15T15:41:39.1702849-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ball.png</Source>
+      <Name>Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kevin\documents\visual studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\Ball.xnb</Output>
+      <Time>2015-01-31T02:56:08.9969495-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Debug.spritefont</Source>
+      <Name>Debug</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kevin\documents\visual studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\Debug.xnb</Output>
+      <Time>2014-11-04T20:23:10.234071-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Hurt.wav</Source>
+      <Name>Hurt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\documents\visual studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\Hurt.xnb</Output>
+      <Time>2014-11-14T02:35:41.3985465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RockSmash.wav</Source>
+      <Name>RockSmash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\documents\visual studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\RockSmash.xnb</Output>
+      <Time>2014-11-14T02:35:41.4015469-05:00</Time>
+    </Item>
+    <Item>
+      <Source>walk.wav</Source>
+      <Name>walk</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\documents\visual studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\walk.xnb</Output>
+      <Time>2014-11-14T02:35:41.1765341-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TileMap.png</Source>
+      <Name>TileMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\TileMap.xnb</Output>
+      <Time>2015-02-05T01:27:22.876144-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BulletSnd.wav</Source>
+      <Name>BulletSnd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\BulletSnd.xnb</Output>
+      <Time>2015-01-11T23:43:01.9555059-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BulletSplashSpriteSheet.png</Source>
+      <Name>BulletSplashSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\BulletSplashSpriteSheet.xnb</Output>
+      <Time>2015-01-31T05:07:26.0083466-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BulletSplashSnd.wav</Source>
+      <Name>BulletSplashSnd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\BulletSplashSnd.xnb</Output>
+      <Time>2015-01-26T18:05:45.7320977-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\kevin\Documents\Visual Studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototypeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\kevin\Documents\Visual Studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\kevin\Documents\Visual Studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototypeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\kevin\Documents\Visual Studio 2010\Projects\TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-18T11:16:05.8898669-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

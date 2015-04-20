@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDownShooterPrototype", "TopDownShooterPrototype\TopDownShooterPrototype\TopDownShooterPrototype.csproj", "{2AA6620C-98A6-4B8F-B0C6-63B4343D4BE2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TopDownShooterPrototypeContent", "TopDownShooterPrototype\TopDownShooterPrototypeContent\TopDownShooterPrototypeContent.contentproj", "{C5DF213A-6C95-494F-BD12-3788B0377477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "..\wildwildWest\Utility\Utility.csproj", "{D2A48F1E-1555-4108-BDBB-61B54A9B39B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA6620C-98A6-4B8F-B0C6-63B4343D4BE2}.Debug|x86.ActiveCfg = Debug|x86
+		{2AA6620C-98A6-4B8F-B0C6-63B4343D4BE2}.Debug|x86.Build.0 = Debug|x86
+		{2AA6620C-98A6-4B8F-B0C6-63B4343D4BE2}.Release|x86.ActiveCfg = Release|x86
+		{2AA6620C-98A6-4B8F-B0C6-63B4343D4BE2}.Release|x86.Build.0 = Release|x86
+		{C5DF213A-6C95-494F-BD12-3788B0377477}.Debug|x86.ActiveCfg = Debug|x86
+		{C5DF213A-6C95-494F-BD12-3788B0377477}.Release|x86.ActiveCfg = Release|x86
+		{D2A48F1E-1555-4108-BDBB-61B54A9B39B6}.Debug|x86.ActiveCfg = Debug|x86
+		{D2A48F1E-1555-4108-BDBB-61B54A9B39B6}.Debug|x86.Build.0 = Debug|x86
+		{D2A48F1E-1555-4108-BDBB-61B54A9B39B6}.Release|x86.ActiveCfg = Release|x86
+		{D2A48F1E-1555-4108-BDBB-61B54A9B39B6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
